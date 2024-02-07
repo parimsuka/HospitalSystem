@@ -1,0 +1,4 @@
+rootProject.name = 'HospitalSystem'
+include 'grpc-lib'
+include 'grpc-server'
+
